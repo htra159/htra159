@@ -12,9 +12,7 @@
 
 ### **SECTION A: FEATURED STORIES (Projects)**
 
-| **Column 1** | **Column 2** | **Column 3** |
-| :--- | :--- | :--- |
-| <h3>🤖 Luxe Wear AI</h3><p>A revolutionary SaaS platform designed for AI agents. Built with **Next.js** and **Supabase**, this tool is changing the automation landscape.</p> | <h3>📜 DevOrbit Blog</h3><p>An open-source knowledge repository powered by **MDX**. A must-read for developers seeking clarity in a complex world.</p> | <h3>🎨 The Portfolio</h3><p>A personal digital exhibition showcasing the finest in **UI/UX design**. A testament to minimal perfection.</p> |
+Updating...
 
 <br/>
 
