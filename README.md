@@ -36,9 +36,9 @@ Updating...
 ### **SECTION C: CONTACT THE EDITOR**
 
 <div align="center">
-  <a href="https://github.com/trahoangdev"><img src="https://img.shields.io/badge/Letter_to_Editor-GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/trahoangdev"><img src="https://img.shields.io/badge/Wire_Service-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.trahoangdev.me"><img src="https://img.shields.io/badge/Official_Website-Visit_Now-black?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/htra159"><img src="https://img.shields.io/badge/Letter_to_Editor-GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Wire_Service-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Official_Website-Visit_Now-black?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 </div>
 
 <br/>
