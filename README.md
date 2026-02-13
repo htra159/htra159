@@ -6,7 +6,7 @@
 
 ## **HEADLINE: AI ENGINEER BUILDS FUTURE**
 
-**HOI AN, VN** — **Tra Hoang**, a dedicated Software & AI Engineer, continues to make waves in the tech community. Known for bridging the gap between academic theory and practical application, Hoang is currently shipping high-quality software from his Vietnam-based headquarters.
+**KON TUM, VN** — **Tra Hoang**, a dedicated Software & AI Engineer, continues to make waves in the tech community. Known for bridging the gap between academic theory and practical application, Hoang is currently shipping high-quality software from his Vietnam-based headquarters.
 
 <br/>
 
